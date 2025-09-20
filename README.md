@@ -6,7 +6,6 @@ Features include a unique deck (no duplicate cards), automatic art loading by fi
 
 <img width="1906" height="1074" alt="image" src="https://github.com/user-attachments/assets/4311e4bf-8449-4560-93a1-8bffacf5fdd6" />
 
-(replace with your own screenshot or remove this block)
 
 Features
 
