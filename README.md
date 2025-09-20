@@ -1,4 +1,4 @@
-BLACKSHRIMO by PEPSI — Custom Art (Pygame)
+BLACKSHRIMP by PEPSI — Custom Art (Pygame)
 
 A small Blackjack game built with Python + Pygame, supporting custom card artwork and custom table background.
 Features include a unique deck (no duplicate cards), automatic art loading by filename, fullscreen/windowed modes, and background dimmer control.
